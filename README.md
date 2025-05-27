@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 For questions or feedback, please contact:  
 [Saratchandra Raju Sarikonda] - [ssaratchandraraju@gmail.com]  
-Project Link: [To-Do-List](https://github.com/SSaratchandraRaju/to-do.git)
+Project Live At: [To-Do-List](https://ssaratchandraraju.github.io/to-do/)
 
 ---
 
